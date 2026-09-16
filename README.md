@@ -1,6 +1,17 @@
+<div align="center">
+
 # Hey, I'm Maryam Abid
 
-### BSCS Undergraduate @ IST | Front-End Developer | Python & AI | C++ | Android Development
+### BSCS Undergraduate @ IST
+### Front-End Developer | Python & AI | C++ | Android Development
+
+<p>
+  <a href="https://www.linkedin.com/in/maryam-abid-7303242a8">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -10,7 +21,10 @@ I'm a Computer Science undergraduate at the **Institute of Space Technology (IST
 with a passion for building software and solving real-world problems through code.
 
 I work with **Front-End Development, Python, AI, and C++**, and I'm currently
-expanding my development skills through **Android Development**.
+learning **Android Development with Java**.
+
+I enjoy turning ideas into practical projects and continuously improving my
+development skills through hands-on work.
 
 ---
 
@@ -20,70 +34,86 @@ expanding my development skills through **Android Development**.
 - Develop applications and solutions using Python
 - Work with AI and machine learning concepts
 - Solve programming problems using C++
-- Currently learning Android Development
-- Build projects to turn ideas into working solutions
+- Build Android applications using Java
+- Create projects to turn ideas into working solutions
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
 
-`Python` `C++` `Java` `JavaScript` `C#`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,cs" />
+</p>
 
-### Front-End
+### Front-End Development
 
-`HTML` `CSS` `JavaScript` `React`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### AI & Data
 
-`Python` `Machine Learning` `AI`
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ### Database
 
-`SQL` `MongoDB`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### Tools
+### Tools & Development Environment
 
-`Git` `GitHub` `VS Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
-### Currently Working With
+### Currently Learning
 
-`Android Development`
-
----
-
-## Projects
-
-### Coffee Shop Website
-
-Responsive website built with HTML, CSS and JavaScript.
-
-### Sweet Bites Cookie Store
-
-Web-based cookie store with product management, cart functionality
-and database integration.
-
-### Personal Portfolio
-
-Personal portfolio showcasing my skills, projects and development journey.
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java" />
+</p>
 
 ---
 
-## Currently
+## Current Focus
 
-**Android Development**
+### Android Development with Java
 
-Building my knowledge and practical skills in Android development
-alongside my existing experience in web development, Python, AI and C++.
+Currently learning Android Development using **Java** and building practical
+skills through hands-on development.
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## Connect With Me
 
-https://www.linkedin.com/in/maryam-abid-7303242a8
+<div align="center">
 
+<a href="https://www.linkedin.com/in/maryam-abid-7303242a8">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+</div>
 
 ---
 
+<div align="center">
+
+### Thanks for visiting my profile
+
+</div>
