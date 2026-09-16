@@ -87,4 +87,3 @@ https://www.linkedin.com/in/maryam-abid-7303242a8
 
 ---
 
-### Code. Build. Solve. Repeat.
